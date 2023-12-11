@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=focus7eleven.focus7eleven) 
-
-
-An unfamous rapstar working on Alipay.
